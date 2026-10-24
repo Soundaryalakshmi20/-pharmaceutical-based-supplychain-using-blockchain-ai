@@ -1,0 +1,2111 @@
+[32mStarted HTTP and WebSocket JSON-RPC server at http://127.0.0.1:8545/[39m
+
+Accounts
+========
+
+[1mWARNING: These accounts, and their private keys, are publicly known.[22m
+[1mAny funds sent to them on Mainnet or any other live network WILL BE LOST.[22m
+
+Account #0: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266 (10000 ETH)
+Private Key: 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+
+Account #1: 0x70997970C51812dc3A010C7d01b50e0d17dc79C8 (10000 ETH)
+Private Key: 0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b78690d
+
+Account #2: 0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC (10000 ETH)
+Private Key: 0x5de4111afa1a4b94908f83103eb1f1706367c2e68ca870fc3fb9a804cdab365a
+
+Account #3: 0x90F79bf6EB2c4f870365E785982E1f101E93b906 (10000 ETH)
+Private Key: 0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a6
+
+Account #4: 0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65 (10000 ETH)
+Private Key: 0x47e179ec197488593b187f80a00eb0da91f1b9d0b13f8733639f19c30a34926a
+
+Account #5: 0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc (10000 ETH)
+Private Key: 0x8b3a350cf5c34c9194ca85829a2df0ec3153be0318b5e2d3348e872092edffba
+
+Account #6: 0x976EA74026E726554dB657fA54763abd0C3a0aa9 (10000 ETH)
+Private Key: 0x92db14e403b83dfe3df233f83dfa3a0d7096f21ca9b0d6d6b8d88b2b4ec1564e
+
+Account #7: 0x14dC79964da2C08b23698B3D3cc7Ca32193d9955 (10000 ETH)
+Private Key: 0x4bbbf85ce3377467afe5d46f804f221813b2bb87f24d81f60f1fcdbf7cbf4356
+
+Account #8: 0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f (10000 ETH)
+Private Key: 0xdbda1821b80551c9d65939329250298aa3472ba22feea921c0cf5d620ea67b97
+
+Account #9: 0xa0Ee7A142d267C1f36714E4a8F75612F20a79720 (10000 ETH)
+Private Key: 0x2a871d0798f97d79848a013d4936a73bf4cc922c825d33c1cf7073dff6d409c6
+
+Account #10: 0xBcd4042DE499D14e55001CcbB24a551F3b954096 (10000 ETH)
+Private Key: 0xf214f2b2cd398c806f84e317254e0f0b801d0643303237d97a22a48e01628897
+
+Account #11: 0x71bE63f3384f5fb98995898A86B02Fb2426c5788 (10000 ETH)
+Private Key: 0x701b615bbdfb9de65240bc28bd21bbc0d996645a3dd57e7b12bc2bdf6f192c82
+
+Account #12: 0xFABB0ac9d68B0B445fB7357272Ff202C5651694a (10000 ETH)
+Private Key: 0xa267530f49f8280200edf313ee7af6b827f2a8bce2897751d06a843f644967b1
+
+Account #13: 0x1CBd3b2770909D4e10f157cABC84C7264073C9Ec (10000 ETH)
+Private Key: 0x47c99abed3324a2707c28affff1267e45918ec8c3f20b8aa892e8b065d2942dd
+
+Account #14: 0xdF3e18d64BC6A983f673Ab319CCaE4f1a57C7097 (10000 ETH)
+Private Key: 0xc526ee95bf44d8fc405a158bb884d9d1238d99f0612e9f33d006bb0789009aaa
+
+Account #15: 0xcd3B766CCDd6AE721141F452C550Ca635964ce71 (10000 ETH)
+Private Key: 0x8166f546bab6da521a8369cab06c5d2b9e46670292d85c875ee9ec20e84ffb61
+
+Account #16: 0x2546BcD3c84621e976D8185a91A922aE77ECEc30 (10000 ETH)
+Private Key: 0xea6c44ac03bff858b476bba40716402b03e41b8e97e276d1baec7c37d42484a0
+
+Account #17: 0xbDA5747bFD65F08deb54cb465eB87D40e51B197E (10000 ETH)
+Private Key: 0x689af8efa8c651a91ad287602527f3af2fe9f6501a7ac4b061667b5a93e037fd
+
+Account #18: 0xdD2FD4581271e230360230F9337D5c0430Bf44C0 (10000 ETH)
+Private Key: 0xde9be858da4a475276426320d5e9262ecfc3ba460bfac56360bfa6c4c28b4ee0
+
+Account #19: 0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199 (10000 ETH)
+Private Key: 0xdf57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e
+
+[1mWARNING: These accounts, and their private keys, are publicly known.[22m
+[1mAny funds sent to them on Mainnet or any other live network WILL BE LOST.[22m
+
+[32meth_chainId[0m
+[32meth_accounts[0m
+[32mhardhat_metadata[0m
+[32mhardhat_metadata (2)[0m
+[32mhardhat_metadata (3)[0m
+[32mhardhat_metadata (4)[0m
+[32mhardhat_metadata (5)[0m
+[32mhardhat_metadata (6)[0m
+[32mhardhat_metadata (7)[0m
+[32mhardhat_metadata (8)[0m
+[32mhardhat_metadata (9)[0m
+[32mhardhat_metadata (10)[0m
+[32mhardhat_metadata (11)[0m
+[32mhardhat_metadata (12)[0m
+[32mhardhat_metadata (13)[0m
+[32mhardhat_metadata (14)[0m
+[32mhardhat_metadata (15)[0m
+[32mhardhat_metadata (16)[0m
+[32mhardhat_metadata (17)[0m
+[32mhardhat_metadata (18)[0m
+[32mhardhat_metadata (19)[0m
+[32mhardhat_metadata (20)[0m
+[32meth_accounts[0m
+[32mhardhat_metadata[0m
+[32mhardhat_metadata (2)[0m
+[32mhardhat_metadata (3)[0m
+[32mhardhat_metadata (4)[0m
+[32mhardhat_metadata (5)[0m
+[32mhardhat_metadata (6)[0m
+[32mhardhat_metadata (7)[0m
+[32mhardhat_metadata (8)[0m
+[32mhardhat_metadata (9)[0m
+[32mhardhat_metadata (10)[0m
+[32mhardhat_metadata (11)[0m
+[32mhardhat_metadata (12)[0m
+[32mhardhat_metadata (13)[0m
+[32mhardhat_metadata (14)[0m
+[32mhardhat_metadata (15)[0m
+[32mhardhat_metadata (16)[0m
+[32mhardhat_metadata (17)[0m
+[32mhardhat_metadata (18)[0m
+[32mhardhat_metadata (19)[0m
+[32mhardhat_metadata (20)[0m
+[32meth_blockNumber[0m
+[32meth_getBlockByNumber[0m
+[32meth_feeHistory[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_sendTransaction[0m
+  Contract deployment: PharmaChain
+  Contract address:    0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Transaction:         0x65cd764f40d078274c40ff2fa502f21daa80bb8f1cffe8ed1809ce69059589df
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  Value:               0 ETH
+  Gas used:            924983 of 16777216
+  Block #1:            0x805711558a0e47382423e481b29c93e0a55a957e35187f8c36080260cfcfa6f6
+
+[32meth_getTransactionByHash[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xe0c0fe50b2e86d4396ccad138a257f61c2876a89a132d02ff78c6e2c3690c478
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            188571 of 188571
+  Block #2:            0x8bfb8a73d5fef7ce62fb7c3fd30558b3f2f5773ec27d2bd23c9cfa4f2a4652d3
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x6e89262e1513f30d34a0b9e73a82280744516f5bf7763d617eea4e5f09cb8505
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #3:            0x569e1cc69f2f66fc22f5b7644286469fa8b4affcdf527120aab9416649477ff7
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x7e4fe4721b3b7fa7dfed33e0ecb25f76eff251d62e1e43bfdada5d1453af4db7
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174271 of 174271
+  Block #4:            0xa7b3873fdfc47499279a80207248841e0e6d6764ea6d31321c7bd4ffe916895a
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x4074f2cb1ca1918aad0d8809f9ff33e6caf8ce23d1dc85082d290083552ea996
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174283 of 174283
+  Block #5:            0x985e26f644ead0c0824fa483754d646de42f9825d3c89652e161691dc4616076
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x7033f094602c2a5a8ba823daec7d4e70daece07e466f72ce5bb9ae397b97124b
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #6:            0xd91181a1050cec18ba0a7fe5ed9d656aa5125a0c70f4107b0224cea5c33485ce
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x1206dda84f57b407b8f54e00f5a4e8631ee7e8edbcbbca405a06f19e6605e2ee
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #7:            0x4bf5ac65440b6b02443c20dacb04363c28cfa436f18b0cd53f65f963b758a18b
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x70b771a2e1669d2d674e9725af70dce80cf4b38cc7cafde7f23ca8f487bfe0ea
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174271 of 174271
+  Block #8:            0xe706d144159c8ee8c5c0102b323520869de0d53a7c5acb3db1143689a9495bd3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x4d258065cc02e0911cdb25712717e8f2a2771e5d397066e92cb383cd2ecd8de8
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174283 of 174283
+  Block #9:            0xc8598bec21211ffe4f901a4fc08f4139e71c8d9ace710f1976fb7e8551f0f63a
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_blockNumber (2)[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#registerBatch
+  Transaction:         0xcca2f9a7c12ce352e902fe460d0178c1314a2c18495301347440887aedc3a9fe
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            50247 of 50247
+  Block #10:           0x4446a57d88ed0bd1fc42a7c52007902dc3622b9632d0fe3f0dbab5bf854f120e
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionByHash[0m
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_getBlockByNumber[0m
+[32meth_chainId[0m
+[32meth_getTransactionByHash[0m
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionByHash[0m
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_getBlockByNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionByHash[0m
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_getBlockByNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x2b075dbc9b6bd94872a670b670840346724ac09ce9ae57f762fcbf4dbb9fdcd5
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #11:           0xdbbf765579e5b8ff1a762d4a819894821520e4d08826029266246be81df9a484
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xfc4621b11facc0133a34b320755862fe42f1c672ded7d820a29a5c7d4a57bc86
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #12:           0x481de555847aa3342ed8ab740892433d6e601027022671385fe062272e82c1c0
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x84f7a1bf0dd84b71597a2161fa228e09dd75d60b6d7abce54c76fed53bcd2e7c
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #13:           0x07676a799d0ebc761ab1f8595777e5d57a23fd824ca9fc4c54120e8bceefbc39
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[31meth_sendRawTransaction[0m
+
+  Nonce too low. Expected nonce to be 13 but got 12. Note that transactions can't be queued when automining.
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xa4f318ee464aaec602f622822d37d60686e8e32aadc37c872e9635211891638d
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #14:           0xed645b7331e03759f23e8d7eebd58f5f260f5a6e775e914f94982d7acf082211
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xbab8ecaee8606038cb29b64aedb09ef128361e53aa1621a4ae8b171b1c6b76b3
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #15:           0xe233e6905c35c73379f740720f96c7c6c6e223d29e163c34dbfdef7fca680f03
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[31meth_sendRawTransaction[0m
+
+  Nonce too low. Expected nonce to be 15 but got 14. Note that transactions can't be queued when automining.
+
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_chainId[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_getBlockByNumber[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xb7b990337b88411026405d64369943925374d9290793dfb846ba227fd12a251e
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174283 of 174283
+  Block #16:           0xd358c9059b4bfc8ae311c670c6731ae3544cee1cbe82cc853d6146d2c0f878a7
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xf5b2d8654b3fc0a4dc6a02481acaf658fe502254decbce90ba3c64c3e2bf419b
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #17:           0x5288ba018b921dc0f79ed3d7176cab27aa0d74e4abbd0902a8579fd3116fd180
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_chainId (3)[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x36c17ce54d15988e4913e29ee8b0eed40e20e19ddea8a3967c59b5d3f123f688
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #18:           0xbc8f436513ec37bda71d638e9a0254869e7450107342ed8f5a93efdfc7efbb47
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_getBlockByNumber[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xa69a831f8da626109322830e16e7101712605a0a6463bcc7fc9c789ecb1c433f
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174271 of 174271
+  Block #19:           0xc8eefab342026b9b2a7e1a31600075a23b07e29b47caedf8ec8723e11f84c158
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xea3108e86b49fcd96bc6ef6d150ea33ecb37fedce6bd04c41cf6ff6f60c7b51e
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174283 of 174283
+  Block #20:           0x4a5b595d45e944fe5e0dabcbba17776f8bc4d092320437ef3a6bcd4d6ee165b9
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xae243cc3e7597ace610d64fed5849b011cd2dbd4dcea75576858a249caac86e4
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #21:           0x94e117e57126fc506d6d6553ee3f83f44861d25c426c5542b2f246ca0d356cde
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xb6ee7004f611d356e7bad103f64ad89e71c7d777619be55a1d5b2e383930d685
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #22:           0x970a4f6723dcf1befe93705fcf906ecacdf9c7a952575e7bae2bc2ced89be3e4
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xf65cdda16d4df01d0661b3d9894be36d0cb02e578b5b2ef1dd4f8b23101d3c0a
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #23:           0xa076a629b5f044fe71fba5178d3c89b83960cddee14ef8de71ae41add086a174
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x82bcdce8773ba3e663556e6e8b57fc46e9325d1aa479529f43b427b02813462d
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #24:           0x65d361474cf36d07d9b2b86c6bb1c3ecf2d62a9260a698b425819371270baec5
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xc8137cc4785fd09a2d15c07dbc2ee2db17165604669cccf604f1b82682a3a13f
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #25:           0x298e08e4e7b57779ecb7a94eb6181e04be172eb214f22b0cde039a55d4fc8abb
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x1b58449bc9aa37df0072c4a2a0a7112614f33f57c8963862eaadd30f1a631af2
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #26:           0x765d77128366a6e2b34752cb2505becd06837cfaabbe9621b2ed929b3fcd60c4
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xe65afe81bdbeb076aa42ee5eea1e33a5c11a9079207b02eb64f11bd40a86dabf
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #27:           0xb54a0d4f1aa3830269b460eef30c236ece18d09de4a73668fc2565127b7ee937
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x7907f53c8f5140cf2385726b9fe340af29da7e44bca2870df41b7cf13eca1353
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #28:           0xbfb24aadfd7024b98140e511466fd52d422190830a2c0cc2621a455f335dab38
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xc37f1391640f017c400f3cb599cdbfe556e4b26fb9feb8e34e085c73205cc8c9
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #29:           0xe2f7b99e78c50040a53919d911efe0bb5f4b18a2b8a7ab23096250bfa2afe914
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x4b7181dbdd268abafa16f7684586bbcba766ef930c40bb7a1dac80c56a2a84b8
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174271 of 174271
+  Block #30:           0x9a02e161e8eb642cd16fe875301ccc01ecf5259b9d454a233b7c2d5852bbbb1e
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x6d36774885d2f68caf8833a9aee1bc4c374a9e09c8f43c3732ef52a2ef79741d
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #31:           0xf1869a34dda6f90c7af62de6739efdd0bb355797b064bcc84c5d6b4159c20210
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x9120a9b7f4a850a803f5b155967fa0879ce176ba314abd25341b8708b5a91125
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            191371 of 191371
+  Block #32:           0x3faa98b45ab033051dd10a03e9043d678e60cb11a35479d385daba0a96eb59cb
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xce0aa6c6dc0f30eee0702fe16a552cf4488216d8f77edbf08534eca271b5142a
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #33:           0xfa881ae0ed3ff8001697ca6dec4395df04dc27ea5a954f20f7bdd2bd3eaadda9
+
+[32meth_blockNumber[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_gasPrice[0m
+[32meth_getBlockByNumber[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xd8db8f155b4366bdfd571aa877d61c7ff093717b18159486613d02245971db06
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174391 of 174391
+  Block #34:           0x80c8fd37ba53c2366b69f65c8682ea16457e51a0e5172f8e6f535f9a4aed22b4
+
+[32meth_chainId[0m
+[32meth_getTransactionReceipt[0m
+[32meth_chainId[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xfa09a768b3c214891e02eec22d9e96342e04db5af790cce1f43ba0ce10672e59
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174271 of 174271
+  Block #35:           0x6bfeec1dc98f4d26d74b00e352953259bc400a0c95a8cd598efb33cc774ad9f7
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0xb4e03be47cb04a70502d225ac3808ebcd1b58ff44b46ae931ce58315e8da1763
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174283 of 174283
+  Block #36:           0xdb54d1ec2fe4b8860e26c7f34bc96b5b2f80bed7e2ac7b6d0b12353ae2a70c47
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x45da4fca64eff4320f86051f9bd3533f86cdd80c7c94393c54d94de795ce1e13
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174271 of 174271
+  Block #37:           0xb90c880f28374bafc9d4e56a0a69b444ba9fe671d7031b7edf1f0c2ebf286f1e
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_getTransactionCount[0m
+[32meth_estimateGas[0m
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getBlockByNumber[0m
+[32meth_gasPrice[0m
+[32meth_maxPriorityFeePerGas[0m
+[32meth_blockNumber[0m
+[32meth_sendRawTransaction[0m
+  Contract call:       PharmaChain#recordEvent
+  Transaction:         0x16731c4f35c0167fcb65d43ac0714514fe96f3e853e8771ef0d72fcd96d2948c
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+  Value:               0 ETH
+  Gas used:            174283 of 174283
+  Block #38:           0x21f08db08a0858af57acf79821ddcf7fc17cb432bbf2688cf050f8cc86b67f55
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_getTransactionReceipt[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_blockNumber[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#totalEvents
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_chainId (2)[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m
+[32meth_call[0m
+  Contract call:       PharmaChain#getBatchHistory
+  From:                0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
+  To:                  0x5fbdb2315678afecb367f032d93f642f64180aa3
+
+[32meth_chainId[0m

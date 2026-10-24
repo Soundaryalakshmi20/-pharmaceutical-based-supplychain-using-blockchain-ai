@@ -1,0 +1,287 @@
+@import "tailwindcss";
+
+/* ============================================
+   PharmaChain — base layer (index.css)
+   Tailwind v4 entry + shared component classes
+   ============================================ */
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #020617; /* slate-950 */
+  color: #e2e8f0; /* slate-200 */
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Layout primitives ------------------------------------------- */
+.page-container {
+  padding: 1.5rem;
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+}
+
+.card {
+  background: #0f172a; /* slate-900 */
+  border: 1px solid #1e293b; /* slate-800 */
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+.card-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #f1f5f9;
+  margin-bottom: 0.75rem;
+}
+
+/* --- Badges ------------------------------------------------------ */
+.badge {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 9999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.badge-active,
+.badge-verified,
+.badge-permitted,
+.badge-paid,
+.badge-in_stock,
+.badge-in-stock,
+.badge-valid,
+.badge-confirmed,
+.badge-success,
+.badge-completed,
+.badge-resolved,
+.badge-issued {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border-color: rgba(16, 185, 129, 0.35);
+}
+
+.badge-blocked,
+.badge-recalled,
+.badge-prohibited,
+.badge-restricted,
+.badge-expired,
+.badge-void,
+.badge-failed,
+.badge-contraindicated,
+.badge-error {
+  background: rgba(244, 63, 94, 0.15);
+  color: #fb7185;
+  border-color: rgba(244, 63, 94, 0.35);
+}
+
+.badge-in_transit,
+.badge-in-transit,
+.badge-pending,
+.badge-draft,
+.badge-warning,
+.badge-moderate,
+.badge-restricted_pending,
+.badge-acknowledged,
+.badge-partially_paid {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border-color: rgba(245, 158, 11, 0.35);
+}
+
+.badge-dispensed,
+.badge-info,
+.badge-open,
+.badge-unknown,
+.badge-severe,
+.badge-partially_dispensed {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  border-color: rgba(59, 130, 246, 0.35);
+}
+
+.badge-default,
+.badge-mild,
+.badge-neutral {
+  background: rgba(148, 163, 184, 0.15);
+  color: #cbd5e1;
+  border-color: rgba(148, 163, 184, 0.35);
+}
+
+/* --- Forms ------------------------------------------------------- */
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.9rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.form-group label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  background: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.75rem;
+  color: #f8fafc;
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #6366f1;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+/* --- Tables ------------------------------------------------------ */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.data-table th {
+  text-align: left;
+  padding: 0.7rem 0.9rem;
+  color: #94a3b8;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid #1e293b;
+  background: #0b1220;
+}
+
+.data-table td {
+  padding: 0.7rem 0.9rem;
+  border-bottom: 1px solid #1e293b;
+  color: #cbd5e1;
+}
+
+.data-table tbody tr:hover {
+  background: rgba(15, 23, 42, 0.6);
+}
+
+/* --- Modal ------------------------------------------------------- */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(2, 6, 23, 0.8);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 3rem 1rem;
+  z-index: 60;
+  overflow-y: auto;
+}
+
+.modal-content {
+  background: #0f172a;
+  border: 1px solid #1e293b;
+  border-radius: 1rem;
+  width: 100%;
+  max-width: 560px;
+  padding: 1.5rem;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.btn-close {
+  background: transparent;
+  border: 1px solid #334155;
+  border-radius: 0.5rem;
+  color: #94a3b8;
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-close:hover {
+  color: #f8fafc;
+  border-color: #64748b;
+}
+
+/* --- Misc -------------------------------------------------------- */
+.summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.summary-card {
+  flex: 1 1 180px;
+  background: #0f172a;
+  border: 1px solid #1e293b;
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.summary-card .val {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #f8fafc;
+}
+
+.summary-card .lbl {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #64748b;
+  margin-top: 0.2rem;
+}
+
+.offline-indicator-dot:hover {
+  transform: scale(1.25);
+}

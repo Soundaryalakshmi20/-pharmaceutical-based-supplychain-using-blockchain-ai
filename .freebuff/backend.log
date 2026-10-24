@@ -1,0 +1,49 @@
+Connected to PostgreSQL Database (pharma_chain)
+=================================
+✅ PostgreSQL Database connected successfully!
+Database Time: Tue, 06 Oct 2026 21:01:20 GMT
+=================================
+🚀 Pharma-Chain Server running on Port 3001
+Health Check: http://localhost:3001 /api/health
+=================================
+[API] POST /api/auth/login
+[API] POST /api/auth/login
+[API] GET /api/verify/SN200958
+[API] GET /api/verify/SN200958
+[API] POST /api/auth/login
+[API] POST /api/auth/login
+[API] POST /api/inventory/transfer
+[API] GET /api/verify/SN200958
+[API] GET /api/verify/SN200958
+[API] POST /api/auth/login
+[API] POST /api/inventory/receive
+[RECEIVE] Starting DB transaction for SN200958 org: 2
+[API] POST /api/inventory/dispense
+[DISPENSE] Starting DB transaction for SN200958 org: 2
+[API] POST /api/auth/login
+[API] POST /api/inventory/receive
+[RECEIVE] Starting DB transaction for SN200106 org: 1
+[API] GET /api/verify/SN200010
+[API] GET /api/verify/SN200958
+[API] GET /api/verify/SN200958
+[API] GET /api/verify/SN200959
+[API] GET /api/verify/SN200959
+[API] POST /api/inventory/receive
+[RECEIVE] Starting DB transaction for SN200959 org: 2
+[API] GET /api/verify/SN200959
+[API] POST /api/inventory/dispense
+[DISPENSE] Starting DB transaction for SN200959 org: 2
+[API] GET /api/inventory
+[API] GET /api/inventory
+[API] POST /api/auth/login
+[API] GET /api/dashboard/stats
+[API] GET /api/dashboard/stats
+[API] GET /api/blockchain/status
+[API] GET /api/blockchain/transactions
+[API] GET /api/blockchain/transactions
+[API] GET /api/blockchain/status
+[API] GET /api/blockchain/batch/123456
+[API] GET /api/verify/SN200959
+[API] GET /api/verify/SN200959
+[API] GET /api/verify/SN200959/history
+[API] GET /api/verify/SN200959/history

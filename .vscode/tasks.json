@@ -1,0 +1,72 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Hardhat node (:8545)",
+      "type": "shell",
+      "command": "npx hardhat node",
+      "options": { "cwd": "${workspaceFolder}/blockchain" },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "hardhat",
+        "pattern": { "regexp": "^$" },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "Started HTTP and WebSocket JSON-RPC server",
+          "endsPattern": "Account #19:"
+        }
+      },
+      "presentation": { "group": "chain", "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "2. Deploy contract",
+      "type": "shell",
+      "command": "npx hardhat run scripts/deploy.js --network localhost",
+      "options": { "cwd": "${workspaceFolder}/blockchain" },
+      "dependsOn": "1. Hardhat node (:8545)",
+      "dependsOrder": "sequence",
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "shared" }
+    },
+    {
+      "label": "3. Backend API (:3001)",
+      "type": "shell",
+      "command": "node src/server.js",
+      "options": { "cwd": "${workspaceFolder}/backend" },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "backend",
+        "pattern": { "regexp": "^$" },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "Pharma-Chain Server",
+          "endsPattern": "Health Check"
+        }
+      },
+      "presentation": { "group": "api", "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "4. Frontend (:5173)",
+      "type": "shell",
+      "command": "npx vite --port 5173 --host",
+      "options": { "cwd": "${workspaceFolder}/frontend" },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "vite",
+        "pattern": { "regexp": "^$" },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "VITE",
+          "endsPattern": "ready in"
+        }
+      },
+      "presentation": { "group": "web", "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "Start full stack (chain + API + web)",
+      "dependsOrder": "sequence",
+      "dependsOn": ["2. Deploy contract", "3. Backend API (:3001)", "4. Frontend (:5173)"],
+      "problemMatcher": []
+    }
+  ]
+}

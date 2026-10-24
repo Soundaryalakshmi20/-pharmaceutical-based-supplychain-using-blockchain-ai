@@ -1,0 +1,22 @@
+
+  [32m[1mVITE[22m v6.4.4[39m  [2mready in [0m[1m636[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.56.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.112:[1m5173[22m/[39m
+[2m12:51:55 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/admin/BlockchainHistory.jsx, /src/index.css[22m
+[2m1:16:18 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mpackage.json[22m
+[2m1:16:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/admin/AdminDashboard.jsx, /src/pages/admin/RegulatoryManager.jsx, /src/pages/admin/BlockchainHistory.jsx[22m
+[2m1:18:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/main.jsx[22m
+[2m1:18:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/distributor/ReceiveMedicine.jsx, /src/index.css[22m
+[2m1:18:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mjsqr[32m[39m
+[2m1:18:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m1:19:04 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/shared/ScanVerify.jsx, /src/index.css[22m
+[2m1:19:04 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/pharmacy/DispenseMedicine.jsx, /src/index.css[22m
+[2m1:19:58 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/distributor/TransferMedicine.jsx, /src/index.css[22m
+[2m1:20:56 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/admin/BlockchainHistory.jsx, /src/index.css[22m
+[2m1:21:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/admin/BlockchainHistory.jsx, /src/index.css[22m
+[2m1:39:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\lsoun\Downloads\finalyear project\frontend\src\components\QrScanner.jsx, /src/index.css[22m
+[2m1:40:09 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/distributor/TransferMedicine.jsx, /src/index.css[22m
+[2m1:40:17 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/distributor/TransferMedicine.jsx, /src/index.css[22m
+[2m1:48:34 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/distributor/TransferMedicine.jsx, /src/index.css[22m

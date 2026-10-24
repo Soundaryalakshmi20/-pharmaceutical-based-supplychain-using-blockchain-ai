@@ -1,0 +1,1 @@
+node src/server.js > ../.freebuff/backend.log 2> ../.freebuff/backend.log.err

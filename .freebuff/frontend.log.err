@@ -1,0 +1,178 @@
+[2m1:37:04 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:37:06 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:37:09 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:39:25 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:39:26 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:39:26 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:40:09 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\lsoun\Downloads\finalyear project\frontend\src\pages\distributor\TransferMedicine.jsx: Identifier 'scanning' has already been declared. (28:9)
+
+[0m [90m 26 |[31m   }[33m,[31m [])[33m;[31m
+ [90m 27 |[31m
+[31m[1m>[22m[31m[90m 28 |[31m   [36mconst[31m [scanning[33m,[31m setScanning] [33m=[31m useState([36mfalse[31m)[33m;[31m
+ [90m    |[31m          [31m[1m^[22m[31m
+ [90m 29 |[31m   [36mconst[31m [preview[33m,[31m setPreview] [33m=[31m useState([36mnull[31m)[33m;[31m [90m// pre-transfer verification[31m
+ [90m 30 |[31m   [36mconst[31m [checking[33m,[31m setChecking] [33m=[31m useState([36mfalse[31m)[33m;[31m
+ [90m 31 |[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/lsoun/Downloads/finalyear project/frontend/src/pages/distributor/TransferMedicine.jsx[39m:28:9
+[33m  26 |    }, []);
+  27 |  
+  28 |    const [scanning, setScanning] = useState(false);
+     |           ^
+  29 |    const [preview, setPreview] = useState(null); // pre-transfer verification
+  30 |    const [checking, setChecking] = useState(false);[39m
+      at constructor (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:6622:19)
+      at ScopeHandler.checkRedeclarationInScope (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:1623:19)
+      at ScopeHandler.declareName (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:1589:12)
+      at JSXParserMixin.declareNameFromIdentifier (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7590:16)
+      at JSXParserMixin.checkIdentifier (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7586:12)
+      at JSXParserMixin.checkLVal (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7523:12)
+      at JSXParserMixin.checkLVal (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7563:16)
+      at JSXParserMixin.parseVarId (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13446:10)
+      at JSXParserMixin.parseVar (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13417:12)
+      at JSXParserMixin.parseVarStatement (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13264:10)
+      at JSXParserMixin.parseStatementContent (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12885:23)
+      at JSXParserMixin.parseStatementLike (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12801:17)
+      at JSXParserMixin.parseStatementListItem (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12781:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13350:61)
+      at JSXParserMixin.parseBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13343:10)
+      at JSXParserMixin.parseBlock (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13331:10)
+      at JSXParserMixin.parseFunctionBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12134:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12120:10)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13479:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12437:14)
+      at JSXParserMixin.parseFunction (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13478:10)
+      at JSXParserMixin.parseExportDefaultExpression (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13941:19)
+      at JSXParserMixin.parseExport (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13862:25)
+      at JSXParserMixin.parseStatementContent (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12912:27)
+      at JSXParserMixin.parseStatementLike (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12801:17)
+      at JSXParserMixin.parseModuleItem (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12778:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13350:36)
+      at JSXParserMixin.parseBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13343:10)
+      at JSXParserMixin.parseProgram (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12656:10)
+      at JSXParserMixin.parseTopLevel (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12646:25)
+      at JSXParserMixin.parse (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:14522:25)
+      at parse (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:14556:38)
+      at parser (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:261:32)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:223:11)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:189:28
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:113:33
+      at step (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:287:14)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:223:11)
+[2m1:40:09 am[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\lsoun\Downloads\finalyear project\frontend\src\pages\distributor\TransferMedicine.jsx: Identifier 'scanning' has already been declared. (28:9)
+
+[0m [90m 26 |[31m   }[33m,[31m [])[33m;[31m
+ [90m 27 |[31m
+[31m[1m>[22m[31m[90m 28 |[31m   [36mconst[31m [scanning[33m,[31m setScanning] [33m=[31m useState([36mfalse[31m)[33m;[31m
+ [90m    |[31m          [31m[1m^[22m[31m
+ [90m 29 |[31m   [36mconst[31m [preview[33m,[31m setPreview] [33m=[31m useState([36mnull[31m)[33m;[31m [90m// pre-transfer verification[31m
+ [90m 30 |[31m   [36mconst[31m [checking[33m,[31m setChecking] [33m=[31m useState([36mfalse[31m)[33m;[31m
+ [90m 31 |[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/lsoun/Downloads/finalyear project/frontend/src/pages/distributor/TransferMedicine.jsx[39m:28:9
+[33m  26 |    }, []);
+  27 |  
+  28 |    const [scanning, setScanning] = useState(false);
+     |           ^
+  29 |    const [preview, setPreview] = useState(null); // pre-transfer verification
+  30 |    const [checking, setChecking] = useState(false);[39m
+      at constructor (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:369:19)
+      at JSXParserMixin.raise (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:6622:19)
+      at ScopeHandler.checkRedeclarationInScope (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:1623:19)
+      at ScopeHandler.declareName (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:1589:12)
+      at JSXParserMixin.declareNameFromIdentifier (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7590:16)
+      at JSXParserMixin.checkIdentifier (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7586:12)
+      at JSXParserMixin.checkLVal (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7523:12)
+      at JSXParserMixin.checkLVal (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:7563:16)
+      at JSXParserMixin.parseVarId (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13446:10)
+      at JSXParserMixin.parseVar (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13417:12)
+      at JSXParserMixin.parseVarStatement (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13264:10)
+      at JSXParserMixin.parseStatementContent (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12885:23)
+      at JSXParserMixin.parseStatementLike (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12801:17)
+      at JSXParserMixin.parseStatementListItem (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12781:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13350:61)
+      at JSXParserMixin.parseBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13343:10)
+      at JSXParserMixin.parseBlock (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13331:10)
+      at JSXParserMixin.parseFunctionBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12134:24)
+      at JSXParserMixin.parseFunctionBodyAndFinish (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12120:10)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13479:12
+      at JSXParserMixin.withSmartMixTopicForbiddingContext (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12437:14)
+      at JSXParserMixin.parseFunction (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13478:10)
+      at JSXParserMixin.parseExportDefaultExpression (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13941:19)
+      at JSXParserMixin.parseExport (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13862:25)
+      at JSXParserMixin.parseStatementContent (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12912:27)
+      at JSXParserMixin.parseStatementLike (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12801:17)
+      at JSXParserMixin.parseModuleItem (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12778:17)
+      at JSXParserMixin.parseBlockOrModuleBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13350:36)
+      at JSXParserMixin.parseBlockBody (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:13343:10)
+      at JSXParserMixin.parseProgram (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12656:10)
+      at JSXParserMixin.parseTopLevel (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:12646:25)
+      at JSXParserMixin.parse (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:14522:25)
+      at parse (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\parser\lib\index.js:14556:38)
+      at parser (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\parser\index.js:41:34)
+      at parser.next (<anonymous>)
+      at normalizeFile (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\transformation\normalize-file.js:51:37)
+      at normalizeFile.next (<anonymous>)
+      at run (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\transformation\index.js:22:50)
+      at run.next (<anonymous>)
+      at transform (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\transform.js:22:33)
+      at transform.next (<anonymous>)
+      at step (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:261:32)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:223:11)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:189:28
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\@babel\core\lib\gensync-utils\async.js:67:7
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:113:33
+      at step (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:287:14)
+      at C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:273:13
+      at async.call.result.err.err (C:\Users\lsoun\Downloads\finalyear project\frontend\node_modules\gensync\index.js:223:11)
+[2m1:42:09 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/me[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:42:09 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/me[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:43:03 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/verify/SN200106?action=PATIENT_SCAN[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:43:03 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/verify/SN200106?action=PATIENT_SCAN[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)
+[2m1:43:43 am[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/login[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1712:7)

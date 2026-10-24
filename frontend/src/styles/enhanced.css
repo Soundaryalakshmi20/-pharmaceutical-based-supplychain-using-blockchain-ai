@@ -1,0 +1,635 @@
+/* ============================================
+   PharmaChain - Enhanced Styles
+   Print-ready, 3D viewer, Billing, Reports
+   ============================================ */
+
+/* === 3D Medicine Viewer === */
+.medicine-viewer-3d-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.viewer-controls {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.medicine-viewer-3d-scene {
+  width: 100%;
+  height: 300px;
+  perspective: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+  overflow: hidden;
+  user-select: none;
+  touch-action: none;
+}
+
+.medicine-3d-object {
+  width: 180px;
+  height: 200px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.05s linear;
+}
+
+.medicine-3d-object.bottle {
+  width: 120px;
+  height: 220px;
+}
+
+.medicine-3d-object.capsule {
+  width: 200px;
+  height: 100px;
+}
+
+.face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: visible;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+.face-content {
+  color: #1e293b;
+  font-size: 0.75rem;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.face-content strong {
+  font-size: 0.8rem;
+}
+
+.medicine-brand {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1e40af;
+  margin-bottom: 4px;
+}
+
+.medicine-generic {
+  font-size: 0.7rem;
+  color: #6b7280;
+}
+
+.medicine-strength {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-top: 4px;
+}
+
+.medicine-mfg {
+  font-size: 0.65rem;
+  margin-top: 6px;
+  color: #374151;
+}
+
+.face-front {
+  transform: translateZ(90px);
+  background: linear-gradient(135deg, #dbeafe, #eff6ff);
+  border: 2px solid #3b82f6;
+}
+
+.bottle .face-front { transform: translateZ(60px); }
+.capsule .face-front { transform: translateZ(50px); }
+
+.face-back {
+  transform: rotateY(180deg) translateZ(90px);
+  background: linear-gradient(135deg, #f0fdf4, #ecfdf5);
+  border: 2px solid #22c55e;
+}
+.bottle .face-back { transform: rotateY(180deg) translateZ(60px); }
+.capsule .face-back { transform: rotateY(180deg) translateZ(50px); }
+
+.face-top {
+  transform: rotateX(90deg) translateZ(100px);
+  background: linear-gradient(135deg, #fefce8, #fef9c3);
+  border: 2px solid #eab308;
+}
+.bottle .face-top { transform: rotateX(90deg) translateZ(110px); }
+.capsule .face-top { transform: rotateX(90deg) translateZ(50px); }
+
+.face-bottom {
+  transform: rotateX(-90deg) translateZ(100px);
+  background: linear-gradient(135deg, #fff1f2, #ffe4e6);
+  border: 2px solid #f43f5e;
+}
+.bottle .face-bottom { transform: rotateX(-90deg) translateZ(110px); }
+.capsule .face-bottom { transform: rotateX(-90deg) translateZ(50px); }
+
+.face-right {
+  transform: rotateY(90deg) translateZ(90px);
+  background: linear-gradient(135deg, #f5f3ff, #ede9fe);
+  border: 2px solid #8b5cf6;
+}
+.bottle .face-right { transform: rotateY(90deg) translateZ(60px); }
+.capsule .face-right { transform: rotateY(90deg) translateZ(100px); }
+
+.face-left {
+  transform: rotateY(-90deg) translateZ(90px);
+  background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+  border: 2px solid #0ea5e9;
+}
+.bottle .face-left { transform: rotateY(-90deg) translateZ(60px); }
+.capsule .face-left { transform: rotateY(-90deg) translateZ(100px); }
+
+/* 2D Fallback */
+.medicine-viewer-2d {
+  max-width: 300px;
+}
+
+.medicine-card-2d {
+  border: 2px solid #d1d5db;
+  border-radius: 12px;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.medicine-card-2d.bottle { border-radius: 20px 20px 12px 12px; }
+
+.medicine-label h4 { color: #1e40af; margin-bottom: 8px; }
+.medicine-label p { font-size: 0.85rem; color: #4b5563; margin: 2px 0; }
+
+/* === Billing / Invoice Styles === */
+.modal-large {
+  max-width: 800px;
+  width: 95vw;
+}
+
+.invoice-item-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.invoice-item-row input,
+.invoice-item-row select {
+  padding: 6px 8px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.flex-1 { flex: 1; min-width: 60px; }
+.flex-2 { flex: 2; min-width: 120px; }
+
+.invoice-preview-totals {
+  background: #f8fafc;
+  padding: 16px;
+  border-radius: 8px;
+  text-align: right;
+}
+
+.invoice-preview-totals p {
+  margin: 4px 0;
+}
+
+.grand-total-line {
+  font-size: 1.1rem;
+  border-top: 2px solid #1e293b;
+  padding-top: 8px;
+  margin-top: 8px !important;
+}
+
+/* === Print Invoice === */
+.print-invoice {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.invoice-printable {
+  background: white;
+  padding: 40px;
+  border: 1px solid #d1d5db;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.invoice-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  border-bottom: 3px solid #1e40af;
+  padding-bottom: 16px;
+}
+
+.company-info h1 { color: #1e40af; margin: 0; font-size: 1.5rem; }
+.company-info p { margin: 2px 0; font-size: 0.85rem; color: #6b7280; }
+
+.invoice-title { text-align: right; }
+.invoice-title h2 { color: #1e293b; margin: 0; }
+.invoice-title p { margin: 4px 0; font-size: 0.9rem; }
+
+.invoice-parties {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  gap: 20px;
+}
+
+.invoice-parties h3 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin-bottom: 8px;
+}
+
+.invoice-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+}
+
+.invoice-table th {
+  background: #1e293b;
+  color: white;
+  padding: 10px 8px;
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+.invoice-table td {
+  padding: 8px;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.85rem;
+}
+
+.invoice-table tr:nth-child(even) {
+  background: #f9fafb;
+}
+
+.invoice-totals {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 24px;
+}
+
+.invoice-totals table {
+  width: 280px;
+  border-collapse: collapse;
+}
+
+.invoice-totals td {
+  padding: 4px 8px;
+  font-size: 0.9rem;
+}
+
+.invoice-totals .grand-total td {
+  border-top: 2px solid #1e293b;
+  font-size: 1.1rem;
+  padding-top: 8px;
+}
+
+.invoice-footer {
+  border-top: 2px solid #e5e7eb;
+  padding-top: 16px;
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.invoice-footer p { margin: 4px 0; }
+
+.invoice-signatures {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+  padding-top: 20px;
+}
+
+.invoice-signatures > div {
+  width: 200px;
+  text-align: center;
+  border-top: 1px solid #9ca3af;
+  padding-top: 8px;
+  font-size: 0.8rem;
+}
+
+/* === Reports === */
+.report-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.report-card {
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-align: center;
+}
+
+.report-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.report-icon {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+}
+
+.report-card p {
+  color: #6b7280;
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+}
+
+/* Print-Ready Report */
+.report-printable {
+  background: white;
+  padding: 40px;
+  border: 1px solid #d1d5db;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.report-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
+
+.report-logo h1 { color: #1e40af; margin: 0; }
+.report-logo p { font-size: 0.85rem; color: #6b7280; }
+.report-title h2 { margin: 0; color: #1e293b; }
+.report-title p { margin: 2px 0; font-size: 0.85rem; color: #6b7280; }
+
+.report-divider {
+  border: none;
+  border-top: 2px solid #1e293b;
+  margin: 16px 0;
+}
+
+.report-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+
+.report-table th {
+  background: #1e293b;
+  color: white;
+  padding: 10px 8px;
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+.report-table td {
+  padding: 8px;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.85rem;
+}
+
+.report-table tr:nth-child(even) { background: #f9fafb; }
+.report-table tr.row-danger { background: #fef2f2 !important; }
+.report-table tr.row-warning { background: #fffbeb !important; }
+
+.report-footer {
+  border-top: 2px solid #e5e7eb;
+  padding-top: 16px;
+  margin-top: 24px;
+}
+
+.report-disclaimer {
+  background: #fefce8;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #fde047;
+  margin-bottom: 16px;
+}
+
+.report-disclaimer p { font-size: 0.8rem; margin: 0; }
+
+.report-meta {
+  text-align: center;
+  font-size: 0.75rem;
+  color: #9ca3af;
+}
+
+.report-meta p { margin: 2px 0; }
+
+/* Compliance Report */
+.compliance-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.compliance-card {
+  background: #f8fafc;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.compliance-card h4 { margin: 0 0 8px 0; color: #1e293b; }
+
+.status-ok { color: #16a34a; font-weight: 600; }
+.status-warn { color: #ea580c; font-weight: 600; }
+
+/* === Drug Interactions === */
+.interactions-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.interaction-card {
+  border-left: 4px solid;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-radius: 0 8px 8px 0;
+}
+
+.interaction-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.severity-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  color: white;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.interaction-effect { color: #4b5563; margin: 4px 0; }
+.interaction-recommendation { color: #6b7280; font-style: italic; margin: 4px 0; }
+
+.alert {
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin: 8px 0;
+}
+
+.alert-critical {
+  background: #fef2f2;
+  border: 1px solid #fca5a5;
+  color: #991b1b;
+}
+
+.alert-success {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  color: #166534;
+}
+
+/* === Shared Layout Enhancements === */
+.filter-bar {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 12px 16px;
+  background: #f8fafc;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  align-items: center;
+}
+
+.filter-bar select,
+.filter-bar input {
+  padding: 6px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.stats-row {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.stat-card {
+  flex: 1;
+  min-width: 120px;
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: #6b7280;
+  margin-top: 4px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.btn-danger-sm {
+  background: #ef4444;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.btn-sm {
+  padding: 4px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.text-sm { font-size: 0.85rem; }
+.font-mono { font-family: monospace; }
+.font-bold { font-weight: 700; }
+.text-muted { color: #6b7280; }
+.text-center { text-align: center; }
+.mt-2 { margin-top: 8px; }
+.mt-4 { margin-top: 16px; }
+.mb-2 { margin-bottom: 8px; }
+.mb-4 { margin-bottom: 16px; }
+.ml-1 { margin-left: 4px; }
+.ml-2 { margin-left: 8px; }
+.p-4 { padding: 16px; }
+.flex { display: flex; }
+.gap-2 { gap: 8px; }
+
+/* === Print Media Query === */
+@media print {
+  .no-print { display: none !important; }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  
+  .page-container,
+  .medicine-viewer-3d-container,
+  .report-params,
+  .filter-bar,
+  .btn-primary,
+  .btn-secondary,
+  .btn-sm,
+  .pagination,
+  .stats-row {
+    display: none !important;
+  }
+  
+  .print-invoice,
+  .print-report {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .invoice-printable,
+  .report-printable {
+    border: none;
+    box-shadow: none;
+    padding: 20px;
+    max-width: 100%;
+  }
+  
+  .page-number::after {
+    content: "Page " counter(page) " of " counter(pages);
+  }
+  
+  @page {
+    size: A4;
+    margin: 15mm 20mm;
+  }
+}

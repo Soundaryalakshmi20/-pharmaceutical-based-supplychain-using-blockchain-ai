@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\lsoun\\Downloads\\finalyear project\\blockchain\\contracts\\PharmaChain.sol": {
+      "lastModificationDate": 1791307242606,
+      "contentHash": "7a1b99b4bbb59adfe85789e2d5c7bf54",
+      "sourceName": "contracts/PharmaChain.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "PharmaChain"
+      ]
+    }
+  }
+}
